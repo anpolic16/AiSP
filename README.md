@@ -1,0 +1,2 @@
+# AiSP
+Predavanja vjezbi
